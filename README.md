@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsmillit
+- 👋 Hi, I’m @HimaD
 - 👀 I’m interested in computation
 - 🌱 I’m currently learning data science 
 
